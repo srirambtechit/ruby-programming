@@ -1,0 +1,12 @@
+# Logfile created on 2015-03-02 09:54:23 +0530 by logger.rb/44203
+I, [2015-03-02T09:54:23.124464 #2759]  INFO -- : Numerator: 4, denominator: 2
+I, [2015-03-02T09:54:23.124772 #2759]  INFO -- : Numerator: 43, denominator: 5
+I, [2015-03-02T09:54:23.124993 #2759]  INFO -- : Numerator: 53, denominator: 0
+E, [2015-03-02T09:54:23.125204 #2759] ERROR -- : Error in division!: divided by 0
+I, [2015-03-02T09:54:23.125358 #2759]  INFO -- : Numerator: 81, denominator: 9
+I, [2015-03-02T09:54:51.603175 #2780]  INFO -- : Numerator: 4, denominator: 2
+I, [2015-03-02T09:54:51.603536 #2780]  INFO -- : Numerator: 43, denominator: 5
+I, [2015-03-02T09:54:51.603730 #2780]  INFO -- : Numerator: 53, denominator: 0
+E, [2015-03-02T09:54:51.603899 #2780] ERROR -- : Error in division!: divided by 0
+I, [2015-03-02T09:54:51.604125 #2780]  INFO -- : Numerator: 81, denominator: 9
+E, [2015-03-02T09:56:29.562977 #2798] ERROR -- : Error in division!: divided by 0
